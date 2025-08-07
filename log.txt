@@ -1,0 +1,2 @@
+[2025-07-21 10:45:00] No files found to organize.
+2025-08-04 10:29:16 - Error: Invalid folder path
